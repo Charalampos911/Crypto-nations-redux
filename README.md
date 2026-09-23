@@ -1,7 +1,7 @@
 # Crypto-nations-redux
 A Redux implementation of the Crypto Nations trading simulation.
 
-Copyright © 2026 Babis Zerv. All Rights Reserved.
+Copyright © 2026 CHARALAMPOS ZERVOULIS. All Rights Reserved.
 
 This source code is publicly available for viewing and evaluation as part
 of my professional portfolio.
